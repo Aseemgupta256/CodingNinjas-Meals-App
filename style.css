@@ -66,8 +66,8 @@ body {
 }
 
 .typeahead {
-  width: 52vw;
-  height: 52px;
+  width: 32vw;
+  height: 50px;
   margin-right: 20px;
   padding: 10px;
   border-radius: 30px;
@@ -226,7 +226,7 @@ footer {
 .favourites, .clears,
 .toggle {
   background: #000;
-  color: rgb(255, 216, 20);
+  color: rgb(20, 161, 255);
   border: #000;
   font-size: 1.5rem;
   width: 50px;
@@ -235,8 +235,8 @@ footer {
 
 .glow-button:hover,
 .toggle-theme-button:hover {
-  color: rgba(255, 228, 92, 1);
-  box-shadow: 0 20px 45px rgba(255, 216, 20, .4);
+  color: rgb(92, 163, 255);
+  box-shadow: 0 20px 45px rgba(20, 114, 255, 0.4);
   background: transparent;
 }
 
@@ -254,7 +254,7 @@ footer {
 }
 
 .prev:hover, .next:hover {
-  color: #f5ff66;
+  color: #66cfff;
 }
 
 .next {
@@ -361,7 +361,7 @@ footer {
   height:100vh;
   background:white ;
   z-index:10000;
-  background-color: #ff7300;
+  background-color: #0077ff;
 }
 #h1 {
   position: relative;
